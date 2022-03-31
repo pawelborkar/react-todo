@@ -7,7 +7,7 @@ import SearchItem from './components/SearchItem';
 import Todo from './components/Todo';
 
 const App = () => {
-  const [items, setItems] = useState(JSON.parse(localStorage.getItem("ShoppingList")))
+  const [items, setItems] = useState(JSON.parse(localStorage.getItem("ShoppingList")) || [])
 
   const [newItem, setNewItem] = useState('')
   const [search, setSearch] = useState('')
