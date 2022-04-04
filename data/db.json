@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "checked": true,
+      "data": "Get one dozen bananas with half a dozen of apples."
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "data": "Buy eggs, orange juice and peanut butter."
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "data": "Buy chocolates for kids."
+    },
+    {
+      "id": 7,
+      "checked": true,
+      "data": "Buy fresh dates"
+    }
+  ]
+}
